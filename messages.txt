@@ -1,0 +1,27 @@
+lang = ES 
+(EN = English, ES = Spanish, EO = Esperanto)
+
+cards_delay:
+Delay of selecting cards? Format = min_secsmax_secs
+¿Retraso al seleccionar cartas? Formato = segs_minsegsmax
+Kiu estas la prokrasto ŝanĝi kartojn? Formato = min_sekundojmak_sekundoj
+place_delay:
+Delay of placing cards? Format = min_secxmax_secs
+¿Retraso al poner cartas? Formato = segs_minsegs_max
+Kiu estas la prokrasto meti kartojn? Formato = min_sekundojmak_sekundoj
+slots:
+Click your cards' slots (1-4)
+Clickea las casillas de tus cartas (1-4)
+Klaku sur viaj kartoj kvadratoj (1-4)
+arena:
+Click top left then bottom right of your side of the arena
+Clickea arriba a la izquierda y abajo a la derecha de tu lado de la arena
+Klaku supro maldekstre kaj malsupro dekstre de via parto de la areno
+stop:
+Hold p to stop
+Manten presionado p para salir
+Teni p por eliro
+files:
+battle.png,ok.png
+batalla.png,vale.png
+battle.png,ok.png

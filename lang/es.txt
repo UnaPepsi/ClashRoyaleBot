@@ -1,0 +1,7 @@
+¿Retraso al seleccionar cartas? Formato = segs_minsegsmax
+¿Retraso al poner cartas? Formato = segs_minsegs_max
+Clickea las casillas de tus cartas (1-4)
+Clickea arriba a la izquierda y abajo a la derecha de tu lado de la arena
+Manten presionado p para salir
+img/batalla.png
+img/vale.png

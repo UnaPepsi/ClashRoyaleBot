@@ -1,0 +1,7 @@
+Delay of selecting cards? Format = min_secsmax_secs
+Delay of placing cards? Format = min_secxmax_secs
+Click your cards' slots (1-4)
+Click top left then bottom right of your side of the arena
+Hold p to stop
+img/battle.png
+img/ok.png

@@ -1,0 +1,7 @@
+Kiu estas la prokrasto sxangxi kartojn? Formato = min_sekundojmak_sekundoj
+Kiu estas la prokrasto meti kartojn? Formato = min_sekundojmak_sekundoj
+Klaku sur viaj kartoj kvadratoj (1-4)
+Klaku supro maldekstre kaj malsupro dekstre de via parto de la areno
+Teni p por eliro
+img/battle.png
+img/ok.png
