@@ -1,7 +1,9 @@
 # A simple Clash Royale bot
+This is a simple bot that places cards randomly, useful if you'd like to complete masteries while AFKing
 
 ## WARNING!
 Even though I put randomizers on this bot, I **do not** guarantee that you may or may not get banned if you use this script. **Use at your own risk**
+
 
 Installation
 ------------
