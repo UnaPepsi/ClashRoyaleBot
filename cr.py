@@ -33,7 +33,7 @@ print(msgs.msg(LANG,4))
 while not keyboard.is_pressed("p"):
 	battle_loc = pyautogui.locateOnScreen(image=msgs.msg(LANG,5),confidence=0.5)
 	ok_loc = pyautogui.locateOnScreen(image=msgs.msg(LANG,6),confidence=0.6)
-	if battle_loc != None:
+	if battle_loc:
 		pyautogui.click(battle_loc.left,battle_loc.top)
 
 	if pyautogui.locateOnScreen(image="img/elixir.png",confidence=0.8):
